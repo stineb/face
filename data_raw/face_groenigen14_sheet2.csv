@@ -1,0 +1,302 @@
+Experiment,exp_name,species,nfert,ozone,burn,soil,water,heat,Citation,Sample date,Proxy type,Soil depth,Unit,aCO2,eCO2,Description of data source,myc
+ArizonaFACE,,wheat,hi,,,,,,Pendall et al. 2001,feb. - apr. 1997,root biomass,0-100 cm,g/m2,79,92,table 1,am
+ArizonaFACE,,wheat,hi,,,,,,Amthor et al. 2001,1996,yield,N/A,g/m2,740,849,table 5,am
+ArizonaFACE,,wheat,hi,,,,,,Amthor et al. 2001,1997,yield,N/A,g/m2,613,706,table 5,am
+Biosphere 2,,,,,,,,,Trueman and Gonzalez-Meler 2005,2001 - peak  biomass,fine root biomass,0-25 cm,g/m2,390,727,fig. 1,am
+Biosphere 2,,,,,,,,,Trueman and Gonzalez-Meler 2005,2002 - peak  biomass,fine root biomass,0-25 cm,g/m2,1183,1634,fig. 1,am
+Biosphere 2,,,,,,,,,Trueman and Gonzalez-Meler 2005,2003 - peak  biomass,fine root biomass,0-25 cm,g/m2,1003,1946,fig. 1,am
+Biosphere 2,,,,,,,,,Trueman and Gonzalez-Meler 2005,2004 - peak  biomass,fine root biomass,0-25 cm,g/m2,1267,2144,fig. 1,am
+Biosphere 2,,,,,,,,,Barron-Gafford et al. 2005,2000,aboveground biomass,N/A,kg/tree,8.88,14.24,fig. 4,am
+Biosphere 2,,,,,,,,,Barron-Gafford et al. 2005,2001,aboveground biomass,N/A,kg/tree,13.07,15.92,fig. 4,am
+Biosphere 2,,,,,,,,,Barron-Gafford et al. 2005,2002,aboveground biomass,N/A,kg/tree,10.56,14.16,fig. 4,am
+Biosphere 2,,,,,,,,,Barron-Gafford et al. 2005,2003,aboveground biomass,N/A,kg/tree,12.19,17.36,fig. 4,am
+China FACE,,,lo,,,,,,Kou et al. 2007,jun.2005,root biomass,0-15 cm,g/m2,81.6,91.8,table 1,am
+China FACE,,,lo,,,,,,Kou et al. 2007,jun.2005,aboveground biomass,N/A,g/m2,993.9,1072.7,table 1,am
+China FACE,,,hi,,,,,,Kou et al. 2007,jun.2005,root biomass,0-15 cm,g/m2,90.7,96.7,table 1,am
+China FACE,,,hi,,,,,,Kou et al. 2007,jun.2005,aboveground biomass,N/A,g/m2,1135.5,1362.8,table 1,am
+China OTC,,,lo,,,,,,Liu et al. 2010,aug. 2005,root biomass,0-70 cm,kg/m2,0.07,0.06,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2006,root biomass,0-70 cm,kg/m2,0.13,0.13,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,May-06,root biomass,0-70 cm,kg/m2,0.2,0.22,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2008,root biomass,0-70 cm,kg/m2,0.93,1.08,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,sept. 2008,root biomass,0-70 cm,kg/m2,1.39,1.59,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2009,root biomass,0-70 cm,kg/m2,1.62,1.85,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,aug. 2005,aboveground biomass,N/A,kg/m2,0.21,0.15,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2006,aboveground biomass,N/A,kg/m2,0.37,0.31,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,May-06,aboveground biomass,N/A,kg/m2,0.53,0.51,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2008,aboveground biomass,N/A,kg/m2,2.62,3.11,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,sept. 2008,aboveground biomass,N/A,kg/m2,4.07,4.77,table 1,nonMyc
+China OTC,,,lo,,,,,,Liu et al. 2010,jan. 2009,aboveground biomass,N/A,kg/m2,4.82,5.55,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,aug. 2005,root biomass,0-70 cm,kg/m2,0.06,0.07,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2006,root biomass,0-70 cm,kg/m2,0.13,0.15,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,May-06,root biomass,0-70 cm,kg/m2,0.19,0.23,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2008,root biomass,0-70 cm,kg/m2,1.08,1.3,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,sept. 2008,root biomass,0-70 cm,kg/m2,1.88,1.93,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2009,root biomass,0-70 cm,kg/m2,2.37,2.39,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,aug. 2005,aboveground biomass,0-70 cm,kg/m2,0.18,0.22,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2006,aboveground biomass,0-70 cm,kg/m2,0.36,0.48,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,May-06,aboveground biomass,0-70 cm,kg/m2,0.57,0.75,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2008,aboveground biomass,0-70 cm,kg/m2,3.42,4.38,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,sept. 2008,aboveground biomass,0-70 cm,kg/m2,6,6.59,table 1,nonMyc
+China OTC,,,hi,,,,,,Liu et al. 2010,jan. 2009,aboveground biomass,0-70 cm,kg/m2,7.94,7.98,table 1,nonMyc
+FACTS I,,,,,,,,,Finzi et al. 2002,aug. 1997,fine root biomass,0-20 cm,g/m2,222,202,table 1,ecm
+FACTS I,,,,,,,,,Finzi et al. 2002,aug. 1998,fine root biomass,0-20 cm,g/m2,241,242,table 1,ecm
+FACTS I,,,,,,,,,Finzi et al. 2002,aug. 1999,fine root biomass,0-20 cm,g/m2,243,273,table 1,ecm
+FACTS I,,,,,,,,,Drake et al. 2011,2003-2007,fine root biomass (average),0-15 cm,g/m2,127,153,table S1,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,1996,litter fall,N/A,g C/m2,202,209,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,1997,litter fall,N/A,g C/m2,180,233,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,1998,litter fall,N/A,g C/m2,253,347,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,1999,litter fall,N/A,g C/m2,253,309,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,2000,litter fall,N/A,g C/m2,219,258,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,2001,litter fall,N/A,g C/m2,195,273,website,ecm
+FACTS I,,,,,,,,,Norby et al. 2005,2002,litter fall,N/A,g C/m2,217,279,website,ecm
+FACTS I,,,,,,,,,Drake et al. 2011,2003-2007,litter fall (average),N/A,g C/m2,370,447,fig. 1 ,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,7.8,9.5,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,16.9,23,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,24.1,34,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,26.4,39.4,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,31.7,48.1,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,37.2,55.1,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,105,150,fig. 2,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,46.5,48.8,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,139.2,169.5,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,234.7,301.4,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,271.3,376.9,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,355.1,507.8,table 3,ecm
+FACTS II,,Aspen,,amb,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,450.8,627.8,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,11.9,15.2,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,24.8,31.8,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,35.4,47.8,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,38.5,56,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,44.6,67.6,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,52.5,79.7,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,160,187,fig. 2,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,34.8,37.7,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,99.5,107.7,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,168.1,196.9,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,194.2,252.6,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,246.3,335.1,table 3,ecm
+FACTS II,,Aspen,,ele,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,320.8,428.5,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,6,8,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,14,22,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,20,32,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,23,38,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,26,45,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,31,52,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,100,127,fig. 2,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,39,52,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,132,188,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,209,311,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,245,394,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,296,497,table 3,ecm
+FACTS II,, Aspen/Birch,,amb,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,360,601,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,4.7,7.4,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,11.6,18.9,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,16.9,27.7,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,19.5,34.2,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,22.6,39.1,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,26.6,48,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,107,141,fig. 2,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,33,37,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,109,130,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,180,217,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,218,289,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,266,346,table 3,ecm
+FACTS II,, Aspen/Birch,,ele,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,330,453,table 3,ecm
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,5.7,7.4,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,15.7,22.2,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,23.1,28.5,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,29.2,37.5,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,34,43.5,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,39.1,50,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,143.2,184,fig. 2,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,16,24,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,65,117,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,111,166,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,152,244,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,188,299,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,amb,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,233,365,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,1998,fine root biomass,0-25 cm,g/m2,4.9,7.3,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,1999,fine root biomass,0-25 cm,g/m2,11.8,20.9,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2000,fine root biomass,0-25 cm,g/m2,18,31.1,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2001,fine root biomass,0-25 cm,g/m2,22.8,38.9,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2002,fine root biomass,0-25 cm,g/m2,27.8,45.8,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2003,fine root biomass,0-25 cm,g/m2,33.2,53.1,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,Pregitzer et al. 2008,jul. 2005,fine root biomass,0-25 cm,g/m2,123,178,fig. 2,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,1998,litter fall,N/A,g/m2,14.4,17.7,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,1999,litter fall,N/A,g/m2,49.6,77.3,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2000,litter fall,N/A,g/m2,90,135.6,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2001,litter fall,N/A,g/m2,125,188.5,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2002,litter fall,N/A,g/m2,164.8,237.6,table 3,ecm+am
+FACTS II,,Aspen/Mapel,,ele,,,,,King et al. 2005,2003,litter fall,N/A,g/m2,213.5,295.2,table 3,ecm+am
+GiFACE,,,,,,,,,Lenhart 2008,2005-2007,root biomass,0-45 cm,g/m2,219,269,page 32,am
+GiFACE,,,,,,,,,Kammann et al. 2005,1998,annual yield,N/A,g/m2,670,678,fig. 1,am
+GiFACE,,,,,,,,,Kammann et al. 2005,1999,annual yield,N/A,g/m2,678,675,fig. 1,am
+GiFACE,,,,,,,,,Kammann et al. 2005,2000,annual yield,N/A,g/m2,778,854,fig. 1,am
+GiFACE,,,,,,,,,Kammann et al. 2005,2001,annual yield,N/A,g/m2,649,699,fig. 1,am
+GiFACE,,,,,,,,,Kammann et al. 2005,2002,annual yield,N/A,g/m2,716,797,fig. 1,am
+Hohenheim,,,,,,,,,H_gy et al. 2010,mar. 2004,aboveground biomass,N/A,g/m2,1174,1295,table 1,am
+Jasper Ridge,,,,,,sandstone,,,Hungate et al. 1997,May-94,peak biomass (shoot + root),0-15 cm,g/m2,145,201,"fig. 1, pers. comm.",am
+Jasper Ridge,,,,,,sandstone,,,Hungate et al. 1997,apr. 1994,peak biomass (shoot + root),0-15 cm,g/m2,242,345,"fig. 1, pers. comm.",am
+JRGCE,,,lo,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,889.5,791.7,pers. comm.,am
+JRGCE,,,lo,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,774.6,735.6,pers. comm.,am
+JRGCE,,,lo,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,840.2,433.6,pers. comm.,am
+JRGCE,,,lo,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,452.5,559.4,pers. comm.,am
+JRGCE,,,lo,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,1020.8,665.9,pers. comm.,am
+JRGCE,,,lo,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,927.1,715.1,pers. comm.,am
+JRGCE,,,lo,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,572.6,781.9,pers. comm.,am
+JRGCE,,,lo,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,657.7,449.8,pers. comm.,am
+JRGCE,,,hi,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,971.5,1022.4,pers. comm.,am
+JRGCE,,,hi,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1029.4,968.7,pers. comm.,am
+JRGCE,,,hi,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,938.9,669.2,pers. comm.,am
+JRGCE,,,hi,,n,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,554.8,482.4,pers. comm.,am
+JRGCE,,,hi,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,1032.5,709.9,pers. comm.,am
+JRGCE,,,hi,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1147.8,969.3,pers. comm.,am
+JRGCE,,,hi,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,1346.9,1128.8,pers. comm.,am
+JRGCE,,,hi,,y,n,n,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,719.2,441.1,pers. comm.,am
+JRGCE,,,lo,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,804.9,859.6,pers. comm.,am
+JRGCE,,,lo,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,787.3,845.9,pers. comm.,am
+JRGCE,,,lo,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,1026.5,797.2,pers. comm.,am
+JRGCE,,,lo,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,429.4,372.5,pers. comm.,am
+JRGCE,,,lo,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,825.7,704.5,pers. comm.,am
+JRGCE,,,lo,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,827,1006.9,pers. comm.,am
+JRGCE,,,lo,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,743.9,762.3,pers. comm.,am
+JRGCE,,,lo,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,267.9,533.6,pers. comm.,am
+JRGCE,,,hi,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,996.5,884.3,pers. comm.,am
+JRGCE,,,hi,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1090.5,901.3,pers. comm.,am
+JRGCE,,,hi,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,1178.8,528.8,pers. comm.,am
+JRGCE,,,hi,,n,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,540.3,504.3,pers. comm.,am
+JRGCE,,,hi,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,1054.1,936,pers. comm.,am
+JRGCE,,,hi,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1128,788,pers. comm.,am
+JRGCE,,,hi,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,1036.2,1340.8,pers. comm.,am
+JRGCE,,,hi,,y,n,y,n,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,666.1,688.5,pers. comm.,am
+JRGCE,,,lo,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,1024,1361.3,pers. comm.,am
+JRGCE,,,lo,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,875.7,841.2,pers. comm.,am
+JRGCE,,,lo,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,738.2,897.8,pers. comm.,am
+JRGCE,,,lo,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,465.8,656.6,pers. comm.,am
+JRGCE,,,hi,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,960.3,876.7,pers. comm.,am
+JRGCE,,,hi,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1057.4,944.9,pers. comm.,am
+JRGCE,,,hi,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,772.6,673.7,pers. comm.,am
+JRGCE,,,hi,,n,n,n,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,635.8,471.8,pers. comm.,am
+JRGCE,,,lo,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,1024.5,816,pers. comm.,am
+JRGCE,,,lo,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,903.1,758.4,pers. comm.,am
+JRGCE,,,lo,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,695.7,923.7,pers. comm.,am
+JRGCE,,,lo,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,473,771.4,pers. comm.,am
+JRGCE,,,hi,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2000,NPP,N/A,g/m2,762,999,pers. comm.,am
+JRGCE,,,hi,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2001,NPP,N/A,g/m2,1357.3,916.7,pers. comm.,am
+JRGCE,,,hi,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2004,NPP,N/A,g/m2,883.8,735.1,pers. comm.,am
+JRGCE,,,hi,,n,n,y,y,"Dukes et al. 2005; Shaw et al. 2002; Henry et al., JR Database",2006,NPP,N/A,g/m2,468.1,562.8,pers. comm.,am
+Merritt Island,,,,,,,,,Day et al. 2013,Jun-98,fine root biomass,0-10 cm,g/m2,1400,2096,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,Jul-98,fine root biomass,0-10 cm,g/m2,1273,1973,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,sept. 1998,fine root biomass,0-10 cm,g/m2,1268,1182,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,dec. 1998,fine root biomass,0-10 cm,g/m2,1406,948,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,sept. 1999,fine root biomass,0-10 cm,g/m2,1249,1377,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,May-02,fine root biomass,0-10 cm,g/m2,1700,1178,pers. comm.,ecm
+Merritt Island,,,,,,,,,Day et al. 2013,Jul-07,fine root biomass,0-10 cm,g/m2,675,472,pers. comm.,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,1997,litterfall,N/A,g/m2,83,108,fig. 1b,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,1998,litterfall,N/A,g/m2,209,293,fig. 1b,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,1999,litterfall,N/A,g/m2,149,196,fig. 1b,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,2000,litterfall,N/A,g/m2,155,234,fig. 1b,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,2001,litterfall,N/A,g/m2,227,293,fig. 1b,ecm
+Merritt Island,,,,,,,,,Hungate et al. 2006,2002,litterfall,N/A,g/m2,224,263,fig. 1b,ecm
+NewZealandFACE,,,,,,,,,Ross et al. 2013,dec. 2000,total soil C input,N/A,g/m2/d,5.7,5.3,table 1,am
+New Zealand Greenhouse,,,,,,,,,Newton et al. 1994,-,root biomass,0-25 cm,g/m2,250.6,377.4,table 2,am
+New Zealand Greenhouse,,,,,,,,,Newton et al. 1994,-,aboveground yield,N/A,g/m2,1064,1140,table 2,am
+New Zealand OTC,,P. radiata,,,,,,,Ross et al. 2006,mar. 2000,litter production,N/A,g/m2,362,359,table 1,ecm
+New Zealand OTC,,N. fusca,,,,,,,Ross et al. 2006,mar. 2000,litter production,N/A,g/m2,299,385,table 1,ecm
+ORNL FACE,,,,,,,,,Iversen et al. 2008,1998-2006,cummulative root litter input,0-15 cm,g/m2,592,761,fig. 3,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,1998,total litterfall ,N/A,g/m2,361,390,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,1999,total litterfall ,N/A,g/m2,441,502,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2000,total litterfall ,N/A,g/m2,472,524.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2001,total litterfall ,N/A,g/m2,461,486.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2002,total litterfall ,N/A,g/m2,465.7,492.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2003,total litterfall ,N/A,g/m2,478,480.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2004,total litterfall ,N/A,g/m2,455.7,478.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2005,total litterfall ,N/A,g/m2,497.7,555,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2006,total litterfall ,N/A,g/m2,447,494.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2007,total litterfall ,N/A,g/m2,447.7,479.5,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+ORNL FACE,,,,,,,,,Norby et al. 2010,2008,total litterfall ,N/A,g/m2,419.7,438,http://public.ornl.gov/face/ORNL/ornl_data_plantresponse.shtml,am
+Placerville,,,lo,,,,,,Johnson et al. 1997,oct. 1991,biomass (shoot + root),whole tree,g/tree,0.8,1.2,table 2,ecm
+Placerville,,,lo,,,,,,Johnson et al. 1997,oc.t 1992,biomass (shoot + root),whole tree,g/tree,49,62,table 2,ecm
+Placerville,,,lo,,,,,,Johnson et al. 1997,oc.t 1993,biomass (shoot + root),whole tree,g/tree,689,1244,table 2,ecm
+Placerville,,,lo,,,,,,Haile-Mariam et al. 2000,oct. 1996,biomass (shoot + root),whole tree,g/m2,10973,14584,table 3,ecm
+Placerville,,,med,,,,,,Johnson et al. 1997,oct. 1991,biomass (shoot + root),whole tree,g/tree,1.5,1.7,table 2,ecm
+Placerville,,,med,,,,,,Johnson et al. 1997,oc.t 1992,biomass (shoot + root),whole tree,g/tree,80,83,table 2,ecm
+Placerville,,,med,,,,,,Johnson et al. 1997,oc.t 1993,biomass (shoot + root),whole tree,g/tree,941,1407,table 2,ecm
+Placerville,,,hi,,,,,,Johnson et al. 1997,oct. 1991,biomass (shoot + root),whole tree,g/tree,2,2,table 2,ecm
+Placerville,,,hi,,,,,,Johnson et al. 1997,oc.t 1992,biomass (shoot + root),whole tree,g/tree,90,114,table 2,ecm
+Placerville,,,hi,,,,,,Johnson et al. 1997,oc.t 1993,biomass (shoot + root),whole tree,g/tree,1386,2363,table 2,ecm
+Placerville,,,hi,,,,,,Haile-Mariam et al. 2000,oct. 1996,biomass (shoot + root),whole tree,g/m2,14516,19522,table 3,ecm
+POPFACE,,alba,,,,,,,Lukac et al. 2003,1999-2001,cummulative root litter input,0-40 cm,g/m2,124,189,table 7,ecm
+POPFACE,,alba,,,,,,,Norby et al. 2005,2000,total litterfall ,N/A,g C/m2,208,216,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+POPFACE,,alba,,,,,,,Norby et al. 2005,2001,total litterfall ,N/A,g C/m2,234,250,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+POPFACE,,euramericana,,,,,,,Lukac et al. 2003,1999-2001,cummulative root litter input,0-40 cm,g/m2,128,232,table 7,ecm
+POPFACE,,euramericana,,,,,,,Norby et al. 2005,2000,total litterfall ,N/A,g C/m2,238,238,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+POPFACE,,euramericana,,,,,,,Norby et al. 2005,2001,total litterfall ,N/A,g C/m2,283,292,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+POPFACE,,nigra,,,,,,,Lukac et al. 2003,1999-2001,cummulative root litter input,0-40 cm,g/m2,170,309,table 7,ecm
+POPFACE,,nigra,,,,,,,Norby et al. 2005,2000,total litterfall ,N/A,g C/m2,224,224,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+POPFACE,,nigra,,,,,,,Norby et al. 2005,2001,total litterfall ,N/A,g C/m2,300,323,http://public.ornl.gov/face/npp_synthesis.shtml,ecm
+Shortgrass prairie,,,,,,,,,Pendall et al. 2004,nov. 2001,root biomass,0-5 cm,g/m2,275,306,fig. 2,am
+Shortgrass prairie,,,,,,,,,Morgan et al. 2004,1997-2001,aboveground NPP,N/A,g/m2,133,187,fig. 1,am
+SoyFACE,,,,,,,,,Morgan et al. 2005,2002,aboveground NPP (soybean),N/A,g/m2,1187,1365,fig. 3,am
+SoyFACE,,,,,,,,,Morgan et al. 2005,2003,aboveground NPP (soybean),N/A,g/m2,794,933,fig. 3,am
+SoyFACE,,,,,,,,,Rodriguez 2004,,belowground NPP (soybean),N/A,,,30%,"Moran and Jastrow 2010, text",am
+SoyFACE,,,,,,,,,Leakey et al. 2006,2004,aboveground biomass (corn),N/A,g/plant,274,273,table 3,am
+SwissFACE,,lol,lo,,,,,,Hebeisen et al. 1997,nov. 1993,root biomass,0-50 cm,g/m2,238,377,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,lo,,,,,,Hebeisen et al. 1997,nov. 1994,root biomass,0-50 cm,g/m2,334,474,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,lo,,,,,,Hebeisen et al. 1997,nov. 1995,root biomass,0-50 cm,g/m2,245,358,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1993,yield,N/A,g/m2,416,439,fig. 1a,am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1994,yield,N/A,g/m2,693,616,fig. 1a,am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1995,yield,N/A,g/m2,809,832,fig. 1a,am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1996,yield,N/A,g/m2,740,670,fig. 1a,am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1997,yield,N/A,g/m2,909,909,fig. 1a,am
+SwissFACE,,lol,lo,,,,,,Daepp et al. 2000,1998,yield,N/A,g/m2,698,761,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,"Hebeisen et al., 1997",nov. 1993,root biomass,0-50 cm,g/m2,206,267,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,hi,,,,,,"Hebeisen et al., 1997",nov. 1994,root biomass,0-50 cm,g/m2,173,375,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,hi,,,,,,"Hebeisen et al., 1997",nov. 1995,root biomass,0-50 cm,g/m2,96,254,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1993,yield,N/A,g/m2,1125,1210,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1994,yield,N/A,g/m2,1302,1510,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1995,yield,N/A,g/m2,1541,1757,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1996,yield,N/A,g/m2,1302,1610,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1997,yield,N/A,g/m2,1803,2042,fig. 1a,am
+SwissFACE,,lol,hi,,,,,,Daepp et al. 2000,1998,yield,N/A,g/m2,1294,1626,fig. 1a,am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",nov. 1993,root biomass,0-50 cm,g/m2,48,60,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",nov. 1994,root biomass,0-50 cm,g/m2,59,88,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",nov. 1995,root biomass,0-50 cm,g/m2,66,81,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",1993,yield,N/A,g/m2,831,1018,"fig. 1a, mean of cutting frequencies",am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",1994,yield,N/A,g/m2,1039,1283,"fig. 1a, mean of cutting frequencies",am
+SwissFACE,,tri,lo,,,,,,"Hebeisen et al., 1997",1995,yield,N/A,g/m2,961,1060,"fig. 1a, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",nov. 1993,root biomass,0-50 cm,g/m2,59,82,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",nov. 1994,root biomass,0-50 cm,g/m2,68,81,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",nov. 1995,root biomass,0-50 cm,g/m2,60,75,"fig. 4, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",1993,yield,N/A,g/m2,860,1003,"fig. 1a, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",1994,yield,N/A,g/m2,1031,1225,"fig. 1a, mean of cutting frequencies",am
+SwissFACE,,tri,hi,,,,,,"Hebeisen et al., 1997",1995,yield,N/A,g/m2,964,1053,"fig. 1a, mean of cutting frequencies",am
+Swiss Greenhouse,,,,,,,,,K_rner and Arnone 1992,-,fine root biomass,0-20 cm,g/m2,135,196,table 1,am
+Swiss Greenhouse,,,,,,,,,K_rner and Arnone 1992,-,litterfall,N/A,g/m2,8.4,11.6,table 1,am
+Tallgrass Prairie,,,,,,,,,Jastrow et al. 2000,nov. 1996,fine root biomass,0-5 cm,g/m2,141,210,table 1,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1989 - peak biomass,aboveground biomass,N/A,g/m2,181,256,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1990 - peak biomass,aboveground biomass,N/A,g/m2,557,557,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1991 - peak biomass,aboveground biomass,N/A,g/m2,556,722,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1992 - peak biomass,aboveground biomass,N/A,g/m2,506,500,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1993 - peak biomass,aboveground biomass,N/A,g/m2,793,793,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1994 - peak biomass,aboveground biomass,N/A,g/m2,749,906,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1995 - peak biomass,aboveground biomass,N/A,g/m2,605,562,fig. 3,am
+Tallgrass Prairie,,,,,,,,,Owensby et al. 1999,1996 - peak biomass,aboveground biomass,N/A,g/m2,700,950,fig. 3,am
+UMBS,,aspen,,,,,,,Zak et al. 1993,oct. 1991,root biomass,0-1.3 m,g/chamber,77.3,124.1,table 1,ecm
+UMBS,,aspen,,,,,,,Zak et al. 1993,oct. 1991,aboveground biomass,-,g/chamber,68.6,71.4,table 1,ecm
+WSL,,,lo,,,loam,,,Spinnler et al. 2002,nov. 1995,fine root biomass,0-60 cm,g/m2,49,51,fig. 5,ecm
+WSL,,,lo,,,loam,,,Spinnler et al. 2002,nov. 1997,fine root biomass,0-60 cm,g/m2,334,311,fig. 5,ecm
+WSL,,,lo,,,loam,,,Spinnler et al. 2002,aug. 1998,fine root biomass,0-60 cm,g/m2,308,283,fig. 5,ecm
+WSL,,,lo,,,loam,,,Spinnler et al. 2002,aug. 1998,total biomass,N/A,g/m2,2411,2525,"fig. 2, species combined",ecm
+WSL,,,hi,,,loam,,,Spinnler et al. 2002,nov. 1995,fine root biomass,0-60 cm,g/m2,75,75,fig. 5,ecm
+WSL,,,hi,,,loam,,,Spinnler et al. 2002,nov. 1997,fine root biomass,0-60 cm,g/m2,300,320,fig. 5,ecm
+WSL,,,hi,,,loam,,,Spinnler et al. 2002,aug. 1998,fine root biomass,0-60 cm,g/m2,390,379,fig. 5,ecm
+WSL,,,hi,,,loam,,,Spinnler et al. 2002,aug. 1998,total biomass,N/A,g/m2,3228,3418,"fig. 2, species combined",ecm
+WSL,,,lo,,,sand,,,Spinnler et al. 2002,nov. 1995,fine root biomass,0-60 cm,g/m2,95,79,fig. 5,ecm
+WSL,,,lo,,,sand,,,Spinnler et al. 2002,nov. 1997,fine root biomass,0-60 cm,g/m2,169,226,fig. 5,ecm
+WSL,,,lo,,,sand,,,Spinnler et al. 2002,aug. 1998,fine root biomass,0-60 cm,g/m2,178,321,fig. 5,ecm
+WSL,,,lo,,,sand,,,Spinnler et al. 2002,aug. 1998,total biomass,N/A,g/m2,3861,4889,"fig. 2, species combined",ecm
+WSL,,,hi,,,sand,,,Spinnler et al. 2002,nov. 1995,fine root biomass,0-60 cm,g/m2,83,83,fig. 5,ecm
+WSL,,,hi,,,sand,,,Spinnler et al. 2002,nov. 1997,fine root biomass,0-60 cm,g/m2,257,257,fig. 5,ecm
+WSL,,,hi,,,sand,,,Spinnler et al. 2002,aug. 1998,fine root biomass,0-60 cm,g/m2,178,251,fig. 5,ecm
+WSL,,,hi,,,sand,,,Spinnler et al. 2002,aug. 1998,total biomass,N/A,g/m2,3703,4684,"fig. 2, species combined",ecm
